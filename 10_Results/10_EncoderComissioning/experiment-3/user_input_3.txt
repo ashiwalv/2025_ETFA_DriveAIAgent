@@ -1,0 +1,1 @@
+I have two encoders XSI850 in slot 1 with FEN-31 and SRM50-HFA0-K21 in slot2 with FEN-11
